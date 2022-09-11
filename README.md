@@ -1,4 +1,4 @@
-# Frontend Mentor - Typing Speed Test Game
+# Typing Speed Test Game
 
 ![Design preview for the Clipboard landing page coding challenge](./images/desktop-preview.png)
 
